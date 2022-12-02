@@ -78,19 +78,6 @@ body {
     opacity: .5;
 }
 
-.stats-img::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    width: 100%;
-    height: 99%;
-    background-color: var(--vDrkBlu);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    opacity: .5;
-}
 
 /* stats head styling */
 .stats-head {
@@ -180,6 +167,7 @@ body {
 
     .stats-head h1 {
         font-size: 38px;
+        padding-top: 20px;
 
     }
 
