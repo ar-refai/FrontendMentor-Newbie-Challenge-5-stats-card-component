@@ -1,2 +1,5 @@
-# FrontendMentor-Newbie-Challenge-5-stats-card-component
-Designing a stats card component as Practice Using HTML , CSS.
+# Frontend Mentor - Stats preview card component
+
+![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
